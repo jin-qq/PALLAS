@@ -10,5 +10,5 @@ IMU is a kind of units which can obtained linear acceleration information and ro
 #### TODO LISTs:
 - [x] 1. Simulate IMU data based on the [SMPL MODEL](https://smpl.is.tue.mpg.de/)
 - [ ] 2. Decompose motion information to twist angle and shape rotation, [reference link](https://github.com/Jeff-sjtu/HybrIK?tab=readme-ov-file)
-- [ ] 
+- [ ] 3. [Inversible neural inverse kinematic solver](https://arxiv.org/abs/1605.08803)
 
