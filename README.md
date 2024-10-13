@@ -14,4 +14,5 @@ IMU is a kind of units which can obtained linear acceleration information and ro
 - [x] 4. LLAMA encoder to encode motion information
 - [ ] 5. Diifusion based generation model(may be cancel)
 - [ ] 6. Flow based VAE generation model
+- [ ] 7. Report of PALLAS
 
