@@ -9,10 +9,10 @@ IMU is a kind of units which can obtained linear acceleration information and ro
 
 #### TODO LISTs:
 - [x] 1. Simulate IMU data based on the [SMPL MODEL](https://smpl.is.tue.mpg.de/)
-- [ ] 2. Decompose motion information to twist angle and shape rotation, [reference link](https://github.com/Jeff-sjtu/HybrIK?tab=readme-ov-file)
-- [ ] 3. [Inversible neural inverse kinematic solver](https://arxiv.org/abs/1605.08803)
+- [x] 2. Decompose motion information to twist angle and shape rotation, [reference link](https://github.com/Jeff-sjtu/HybrIK?tab=readme-ov-file)
+- [x] 3. [Inversible neural inverse kinematic solver](https://arxiv.org/abs/1605.08803)
 - [x] 4. LLAMA encoder to encode motion information
 - [ ] 5. Diifusion based generation model(may be cancel)
-- [ ] 6. Flow based VAE generation model
-- [ ] 7. Report of PALLAS
+- [ ] 6. Auto regressor based VAE generation model
+- [ ] 7. Report of PALLAS (Finish abstract, method of encoder and method of invertible inverse kinematic solver)
 
