@@ -12,7 +12,8 @@ IMU is a kind of units which can obtained linear acceleration information and ro
 - [x] 2. Decompose motion information to twist angle and shape rotation, [reference link](https://github.com/Jeff-sjtu/HybrIK?tab=readme-ov-file)
 - [x] 3. [Inversible neural inverse kinematic solver](https://arxiv.org/abs/1605.08803)
 - [x] 4. LLAMA encoder to encode motion information
-- [ ] 5. Diifusion based generation model(may be cancel)
+- [x] 5. Diifusion based generation model(cancel because of limitaion of GPU)
 - [ ] 6. Auto regressor based VAE generation model
 - [ ] 7. Report of PALLAS (Finish abstract, method of encoder and method of invertible inverse kinematic solver)
+- [ ] 8. Training and experiment (Training 0.4B encoder)
 
