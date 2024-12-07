@@ -17,3 +17,4 @@ IMU is a kind of units which can obtained linear acceleration information and ro
 - [ ] 7. Report of PALLAS (Finish abstract, method of encoder and method of invertible inverse kinematic solver)
 - [ ] 8. Training and experiment (Training 0.4B encoder)
 
+data link:  https://pan.baidu.com/s/1p2NhNyUWgNw8ewvirYqtiA?pwd=f5xf
